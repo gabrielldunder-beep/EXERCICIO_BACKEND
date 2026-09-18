@@ -14,7 +14,7 @@ console.log(idade >= 18);
 
 //Exercício 4 - Compare dois números iguais.
 let primeiroNumero = 11;
-let segundoNumero = 10;
+let segundoNumero = 11;
 console.log(primeiroNumero === segundoNumero);
 
 //Exercício 5 - Compare dois números diferentes.
@@ -45,6 +45,6 @@ console.log(!estaChovendo);
 
 
 //Exercício 10 - Compare texto e número.
-let texto = "10";
-let numeroTexto = 10;
-console.log(texto === numeroTexto);
+let num = 30
+let strng = "valor";
+console.log(num === strng);
